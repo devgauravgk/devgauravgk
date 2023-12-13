@@ -8,9 +8,9 @@ I'm passionate about creating sleek and intuitive user interfaces that bring ide
 
 
 👨‍💻 **i've created small projects:**
-- [Weather App](Link to Project 1) - it's a small weather app based on web. it tells weather data of every place.
-- [Passenger counter App](Link to Project 2) - ypu can count passenger with this web app
-- [Blackjack game](Link to Project 3) - it is a short game of black jack written in HTML, CSS AND JS.
+- [Weather App](https://github.com/devgauravgk/web-weather-v1.0) - it's a small weather app based on web. it tells weather data of every place.
+- [Passenger counter App](https://github.com/devgauravgk/passenger-counter-web-app) - ypu can count passenger with this web app
+- [Blackjack game](https://github.com/devgauravgk/blackjack-v0.03) - it is a short game of black jack written in HTML, CSS AND JS.
 
 🔧 **Tools & Technologies:**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
